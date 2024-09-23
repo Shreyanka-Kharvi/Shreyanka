@@ -1,6 +1,4 @@
 "This is my first experiment"
-You can proceed to second program
 
-
-This is an edit to prev file
+This is 2nd edit
 
